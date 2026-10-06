@@ -7,7 +7,7 @@ It brings together a release **changelog**, **deployment risks**, and a **pre-de
 ## 🚀 Live Demo
 
 **GitHub Pages:**  
-https://haneena-eng.github.io/release-ready/
+https://github.com/aishaO4/release-ready/
 
 ## 💡 Problem
 
